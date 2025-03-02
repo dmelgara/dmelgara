@@ -4,7 +4,7 @@
 🚀 **Full Stack Software Developer | Cloud Enthusiast | Open Source Contributor**
 
 💻 **Tech Stack:** JavaScript | Java | PHP | Python | C# | SQL | HTML | CSS  
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/diego-melgara) | [Portfolio](https://github.com/dmelgara)  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/diego-melgara) | [Portfolio](https://diegomelgara.com/)  
 🔥 **Currently working on:** A weather app with real-time API integration  
 
 
